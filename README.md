@@ -63,45 +63,46 @@ programming (OOP)** — using clean, structured code.
 
 ## 📂 Project Structure
 
-BankManagementSystem/
-│
-├── functional/
-│ ├── main.cpp
-│ ├── project.cpp
-│ ├── Users.txt
-│ └── Clients.txt
-│
-└── oop/
-├── main.cpp
-│
-├── Core/
-│ ├── clsUser.h
-│ ├── clsCurrency.h
-│ └── clsClient.h
-│
-├── Lib/
-│ ├── clsDate.h
-│ ├── clsInputValidation.h
-│ ├── clsString.h
-│ └── clsUtil.h
-│
-└── Screens/
-├── clsScreen.h
-├── clsMainScreen.h
-│
-├── Users/
-│ ├── clsListUsersScreen.h
-│ ├── clsAddUserScreen.h
-│ └── ... (4 more user screens)
-│
-├── Clients/
-│ ├── clsListClientsScreen.h
-│ ├── clsAddClientScreen.h
-│ └── ... (9 more client screens)
-│
-└── Currencies/
-├── clsCurrenciesScreen.h
-└── ... (3 more currency screens)
+BankManagementSystem/   
+│   
+├── functional/   
+│ ├── main.cpp   
+│ ├── project.cpp   
+│ ├── Users.txt   
+│ └── Clients.txt   
+│   
+└── oop/   
+├── main.cpp   
+│   
+├── Core/    
+│ ├── clsUser.h    
+│ ├── clsCurrency.h   
+│ └── clsClient.h   
+│   
+├── Lib/   
+│ ├── clsDate.h   
+│ ├── clsInputValidation.h    
+│ ├── clsString.h   
+│ └── clsUtil.h  
+│   
+└── Screens/   
+├── clsScreen.h   
+├── clsMainScreen.h   
+│   
+├── Users/       
+│ ├── clsListUsersScreen.h   
+│ ├── clsAddUserScreen.h   
+│ └── ... (4 more user screens)   
+│   
+├── Clients/    
+│ ├── clsListClientsScreen.h   
+│ ├── clsAddClientScreen.h    
+│ └── ... (9 more client screens)   
+│   
+└── Currencies/    
+├── clsCurrenciesScreen.h    
+└── ... (3 more currency screens)  
+
 ---
 
 
