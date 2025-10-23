@@ -67,5 +67,16 @@ I built this using **C++** as a **console application**, and it includes role-ba
 
 ## 📂 Project Structure
 
-
+Bank-Management-System/
+│
+├── functional/
+│ ├── main.cpp
+│ └── ... (procedural version)
+│
+└── oop/
+├── main.cpp
+├── Account.h / Account.cpp
+├── User.h / User.cpp
+├── Bank.h / Bank.cpp
+└── ... (object-oriented version)
 
