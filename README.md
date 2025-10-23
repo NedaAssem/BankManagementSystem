@@ -9,25 +9,21 @@ programming (OOP)** — using clean, structured code.
 
 ## 💡 Features
 
-- ✅ User Registration and Login
-- ✅ User Roles and Permissions (Admin / Normal User)
-- ✅ Deposit and Withdraw Money
-- ✅ View Account Details
-- ✅ Manage Multiple Users
-- ✅ Console-based UI (text menus)
+✅ User Registration and Login.
+✅ User Roles and Permissions (Admin / Normal User).
+✅ Deposit and Withdraw Money.
+✅ View Account Details.
+✅ Manage Multiple Users.
+✅ Console-based UI (text menus).
 
 ---
 
 ## 🧠 Concepts Used
 
-. Functional programming (first version)
-
-. Object-Oriented Programming (OOP)
-
-. File Handling
-
-. Loops, Conditionals, and Functions
-
-. Classes, Objects, and Encapsulation
+- Functional programming (first version)
+- Object-Oriented Programming (OOP)
+- File Handling
+- Loops, Conditionals, and Functions
+- Classes, Objects, and Encapsulation
 
 
