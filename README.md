@@ -118,6 +118,17 @@ BankManagementSystem/
 
 ---
 
+##🔑 Login Information
+
+To access the system, use any of the user credentials listed in the Users.txt file located in the functional or oop folder.
+Example (if included in your file):  
+   
+Username: admin  
+Password: 1234   
+   
+   
+📄 You can also edit Users.txt to add or remove users with different permissions.
+
 ## 📈 Learning Outcomes
 
 - Through this project, I learned to:
