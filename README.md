@@ -7,24 +7,59 @@ programming (OOP)** — using clean, structured code.
 
 ---
 
-## 💡 Features
+## 💡 Main Features
 
-✅ User Registration and Login.  
-✅ User Roles and Permissions (Admin / Normal User).   
-✅ Deposit and Withdraw Money.   
-✅ View Account Details.   
-✅ Manage Multiple Users.  
-✅ Console-based UI (text menus).  
+- **User Registration:**  
+  New users can create their own accounts.
+
+- **User Login System:**  
+  Only registered users can log in with their credentials.
+
+- **Permissions & Roles:**  
+  - **Admin users** can manage clients, approve transactions, and control user permissions.  
+  - **Client users** can check balances, deposit, and withdraw funds.
+
+- **Account Management:**  
+  - Create and manage bank accounts  
+  - Deposit and withdraw money  
+  - View account balance and transaction history  
+
+- **Console Interface:**  
+  Simple, text-based interface for easy navigation.
+
 
 ---
 
-## 🧠 Concepts Used
 
-- Functional programming (first version)
-- Object-Oriented Programming (OOP)
-- File Handling
-- Loops, Conditionals, and Functions
-- Classes, Objects, and Encapsulation
+## 🧩 Versions
+
+### 1️⃣ Functional Version – `/functional/`
+- Implemented using **C++ functions** only  
+- Focused on procedural programming, logic, and console I/O  
+- Step-by-step implementation with no classes  
+
+### 2️⃣ Object-Oriented Version – `/oop/`
+- Refactored using **C++ classes** and **OOP principles**, including:  
+  - Classes & Objects  
+  - Encapsulation  
+  - Inheritance  
+  - Polymorphism  
+- Cleaner, more maintainable, and modular design  
+
+---
+
+
+## ⚙️ Technologies Used
+
+| Technology | Purpose |
+|-------------|----------|
+| C++ | Core programming language |
+| Console I/O | User interaction |
+| File handling | Saving and loading user data and client data |
+| OOP | Structuring and organizing code |
+
+---
+
 
 ## 📂 Project Structure
 
@@ -44,41 +79,53 @@ BankManagementSystem/
 ├── Bank.cpp   
 └── (other files)  
 
-## ⚙️ Technologies Used
-
-| Technology | Purpose |
-|-------------|----------|
-| C++ | Core programming language |
-| Console I/O | User interaction |
-| File handling | Saving and loading user data |
-| OOP | Structuring and organizing code |
+---
 
 
-## ⚙️ How to Run
+## 🚀 How to Run
 
-1. Clone this repository  
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/BankManagementSystem.git
 
-        git clone https://github.com/<your-username>/BankManagementSystem.git
+2. Open the project in your favorite C++ IDE (e.g., Code::Blocks, Dev-C++, Visual Studio, or CLion).
 
+3. Build and run either the functional or OOP version.
 
-2. Open the project in your IDE (e.g., Visual Studio, Code::Blocks, or Dev-C++)  
+---
 
-3. Build and run main.cpp  
+## 📈 Learning Outcomes
 
-4. Follow the console menu instructions
+- Through this project, I learned to:
+
+- Build real-world applications using C++ console programming
+
+- Design and implement user login and permission systems
+
+- Understand the difference between functional and OOP design
+
+- Write clean, reusable, and maintainable C++ code
+
+---
+
 
 ## ✨ Future Improvements
 
-- Add Data Encryption for stored files
+- Improve security for user login (password hashing)
 
-- Add Transaction History
+- Add Transaction History storage
+
+- Extend features with more banking operations
 
 - Migrate to GUI (C# Windows Forms or Web API)
 
+---
+
 ## 📫 Contact
 
-👤 Your Name
-📧 your.email@example.com
+👤 Nedi Assem
+
+📧 nadaalthbit@gmail.com
 
 💼 LinkedIn
  | GitHub
