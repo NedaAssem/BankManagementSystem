@@ -9,12 +9,12 @@ programming (OOP)** — using clean, structured code.
 
 ## 💡 Features
 
--✅ User Registration and Login
--✅ User Roles and Permissions (Admin / Normal User)
--✅ Deposit and Withdraw Money
--✅ View Account Details
--✅ Manage Multiple Users
--✅ Console-based UI (text menus)
+- ✅ User Registration and Login
+- ✅ User Roles and Permissions (Admin / Normal User)
+- ✅ Deposit and Withdraw Money
+- ✅ View Account Details
+- ✅ Manage Multiple Users
+- ✅ Console-based UI (text menus)
 
 ---
 
