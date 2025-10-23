@@ -1,8 +1,8 @@
 # 🏦 Bank Management System (C++ Console Project)
 
-A simple **console-based Bank Management System** built with C++ to simulate basic banking operations like 
-user registration, login, account management, and transactions.
-This project demonstrates my learning progress — from **functional programming** to **object-oriented 
+A simple **console-based Bank Management System** built with C++ to simulate basic banking operations like   
+user registration, login, account management, and transactions.   
+This project demonstrates my learning progress — from **functional programming** to **object-oriented   
 programming (OOP)** — using clean, structured code.
 
 ---
