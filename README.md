@@ -26,4 +26,61 @@ programming (OOP)** — using clean, structured code.
 - Loops, Conditionals, and Functions
 - Classes, Objects, and Encapsulation
 
+## 📂 Project Structure
 
+BankManagementSystem/  
+│  
+├── functional/  
+│ ├── main.cpp   
+│ └── (procedural version files)  
+│   
+└── oop/   
+├── main.cpp   
+├── Account.h   
+├── Account.cpp  
+├── User.h   
+├── User.cpp   
+├── Bank.h   
+├── Bank.cpp   
+└── (other files)  
+
+## ⚙️ Technologies Used
+
+| Technology | Purpose |
+|-------------|----------|
+| C++ | Core programming language |
+| Console I/O | User interaction |
+| File handling | Saving and loading user data |
+| OOP | Structuring and organizing code |
+
+
+## ⚙️ How to Run
+
+1. Clone this repository  
+
+        git clone https://github.com/<your-username>/BankManagementSystem.git
+
+
+2. Open the project in your IDE (e.g., Visual Studio, Code::Blocks, or Dev-C++)  
+
+3. Build and run main.cpp  
+
+4. Follow the console menu instructions
+
+## ✨ Future Improvements
+
+- Add Data Encryption for stored files
+
+- Add Transaction History
+
+- Migrate to GUI (C# Windows Forms or Web API)
+
+## 📫 Contact
+
+👤 Your Name
+📧 your.email@example.com
+
+💼 LinkedIn
+ | GitHub
+
+⭐ If you found this project interesting, consider giving it a star!
