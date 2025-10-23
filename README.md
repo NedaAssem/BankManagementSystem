@@ -60,7 +60,7 @@ I built this using **C++** as a **console application**, and it includes role-ba
 |-------------|----------|
 | C++ | Core programming language |
 | Console I/O | User interaction |
-| File handling | Saving and loading user data |
+| File handling | Saving and loading user data ,client data and transaction history |
 | OOP | Structuring and organizing code |
 
 ---
