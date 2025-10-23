@@ -1,0 +1,12 @@
+﻿  Bank1.cpp
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\Functional\Bank1\Bank1\Bank1.cpp(49,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\Functional\Bank1\Bank1\Bank1.cpp(86,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\Functional\Bank1\Bank1\Bank1.cpp(578,28): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\Functional\Bank1\Bank1\Bank1.cpp(613,14): warning C4101: 'DeleteClient': unreferenced local variable
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\Functional\Bank1\Bank1\Bank1.cpp(707,10): warning C4101: 'Answer': unreferenced local variable
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\Functional\Bank1\Bank1\Bank1.cpp(411,1): warning C4715: 'DeleteClientFromAcountNumber': not all control paths return a value
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\Functional\Bank1\Bank1\Bank1.cpp(523,1): warning C4715: 'DeposetBalanceToClientByAcountNumber': not all control paths return a value
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\Functional\Bank1\Bank1\Bank1.cpp(468,1): warning C4715: 'UpdateClientData': not all control paths return a value
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\Functional\Bank1\Bank1\Bank1.cpp(984,1): warning C4715: 'DeleteUserFromUserName': not all control paths return a value
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\Functional\Bank1\Bank1\Bank1.cpp(1056,1): warning C4715: 'UpdateUserData': not all control paths return a value
+  Bank1.vcxproj -> C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\Functional\Bank1\x64\Debug\Bank1.exe

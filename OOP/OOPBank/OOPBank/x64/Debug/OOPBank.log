@@ -1,0 +1,69 @@
+﻿  OOPBank.cpp
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsUser.h(182,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'OOPBank.cpp')
+      C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsUser.h(26,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsInputValidate.h(124,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsInputValidate.h(128,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsBankClient.h(164,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'OOPBank.cpp')
+      C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsBankClient.h(144,9):
+      see declaration of 'clsBankClient::stTransferLog'
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsBankClient.h(182,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsBankClient.h(369,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsBankClient.h(381,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsCurrency.h(27,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsUpdateCurrencyScreen.h(15,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsCurrencyCalculatorScreen.h(42,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOPBank.cpp')
+  
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsLoginScreen.h(52,1): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsBankClient.h(324,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\OOPBank\clsUser.h(345,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  OOPBank.vcxproj -> C:\Users\EXCALIBUR\OneDrive\Documents\BankManagementSystem\OOP\OOPBank\x64\Debug\OOPBank.exe
