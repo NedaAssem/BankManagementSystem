@@ -1,32 +1,33 @@
 # 🏦 Bank Management System (C++ Console Project)
 
-This project represents an important stage of my software development journey.  
-I built the **Bank Management System** twice — first using **Functional Programming**,  
-and then refactored it using **Object-Oriented Programming (OOP)** principles to improve the structure and design.
+A simple **console-based Bank Management System** built with C++ to simulate basic banking operations like 
+user registration, login, account management, and transactions.
+This project demonstrates my learning progress — from **functional programming** to **object-oriented 
+programming (OOP)** — using clean, structured code.
 
 ---
 
-## 📘 About the Project
+## 💡 Features
 
-A simple **console-based Bank Management System** built with C++ to simulate basic banking operations like user registration, login, account management, and transactions.
-
-This project demonstrates my learning progress — from **functional programming** to **object-oriented programming (OOP)** — using clean, structured code.
----
-
-## 💡 Main Features
-
-- **User Registration** – New users can create accounts.  
-- **User Login System** – Registered users can log in securely.  
-- **Permissions & Roles:**  
-  - Admin users: manage clients and transactions  
-  - Client users: check balances, deposit, withdraw  
-- **Account Management:**  
-  Create, view, and update bank accounts  
-- **Console Interface:**  
-  Simple text-based interface for user interaction  
+✅ User Registration and Login
+✅ User Roles and Permissions (Admin / Normal User)
+✅ Deposit and Withdraw Money
+✅ View Account Details
+✅ Manage Multiple Users
+✅ Console-based UI (text menus)
 
 ---
 
-## 📂 Project Structure
+## 🧠 Concepts Used
+
+. Functional programming (first version)
+
+. Object-Oriented Programming (OOP)
+
+. File Handling
+
+. Loops, Conditionals, and Functions
+
+. Classes, Objects, and Encapsulation
 
 
