@@ -167,4 +167,12 @@ Password: 1234
 
 ⭐ If you found this project interesting, consider giving it a star!
 
+Bank1
+    ├───Bank1
+    │   └───x64
+    │       └───Debug
+    │           └───Bank1.tlog
+    └───x64
+        └───Debug
+
 
