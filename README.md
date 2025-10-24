@@ -165,3 +165,20 @@ Password: 1234
  | GitHub
 
 ⭐ If you found this project interesting, consider giving it a star!
+
+---
++ react-app
+  + config
+    + webpack.config.js
+  + components
+    + Modal
+    + Form
+    + Table
+  + pages
+    + home
+    + app
+    + help
+  + package.json
+  + package-lock.json
+
+    ---
