@@ -55,7 +55,7 @@ programming (OOP)** — using clean, structured code.
 |-------------|----------|
 | C++ | Core programming language |
 | Console I/O | User interaction |
-| File handling | Saving and loading user data and client data |
+| File handling | Saving and loading user data , client data and transection login |
 | OOP | Structuring and organizing code |
 
 ---
