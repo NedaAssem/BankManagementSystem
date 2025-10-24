@@ -148,8 +148,6 @@ Password: 1234
 
 - Improve security for user login (password hashing)
 
-- Add Transaction History storage
-
 - Extend features with more banking operations
 
 - Migrate to GUI (C# Windows Forms or Web API)
