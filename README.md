@@ -78,27 +78,27 @@ BankManagementSystem/
 │     │      ├── clsUser.h    
 │     │      ├── clsCurrency.h   
 │     │      └── clsClient.h  
-│     │
+│     │                     
 │     ├── Lib/   
 │     │      ├── clsDate.h   
 │     │      ├── clsInputValidation.h    
 │     │      ├── clsString.h   
 │     │      └── clsUtil.h  
-│     │
+│     │       
 │     └── Screens/   
 │             ├── clsScreen.h   
 │             ├── clsMainScreen.h   
-│             │
+│             │            
 │             ├── Users/       
 │             │        ├── clsListUsersScreen.h   
 │             │        ├── clsAddUserScreen.h   
 │             │        └── ... (4 more user screens)   
-│             │
+│             │         
 │             ├── Clients/    
 │             │        ├── clsListClientsScreen.h   
 │             │        ├── clsAddClientScreen.h    
 │             │        └── ... (9 more client screens)   
-│             │
+│             │           
 │             └── Currencies/    
 │                      ├── clsCurrenciesScreen.h    
 │                      └── ... (3 more currency screens)  
@@ -166,14 +166,4 @@ Password: 1234
  | GitHub
 
 ⭐ If you found this project interesting, consider giving it a star!
-
-```markdown-tree
-root
-    second
-        third
-            fourth
-                file1.jpg
-                file2.txt
-                file3.pdf
-
 
