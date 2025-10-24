@@ -74,9 +74,9 @@ BankManagementSystem/
 └── oop/   
 │   ├── main.cpp   
 │   ├── Core/    
-│     ├── clsUser.h    
-│     ├── clsCurrency.h   
-│     └── clsClient.h   
+│       ├── clsUser.h    
+│       ├── clsCurrency.h   
+│       └── clsClient.h   
 │   
 │   ├── Lib/   
 │     ├── clsDate.h   
