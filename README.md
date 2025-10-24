@@ -72,17 +72,17 @@ BankManagementSystem/
 │   └── Clients.txt   
 │   
 └── oop/   
-│   ├── main.cpp   
+│     ├── main.cpp   
 │   ├── Core/    
-│       ├── clsUser.h    
-│       ├── clsCurrency.h   
-│       └── clsClient.h   
-│   
-│    ├── Lib/   
-│     ├── clsDate.h   
-│     ├── clsInputValidation.h    
-│     ├── clsString.h   
-│     └── clsUtil.h  
+│   │   ├── clsUser.h    
+│   │   ├── clsCurrency.h   
+│   │   └── clsClient.h  
+│   │
+│   ├── Lib/   
+│       ├── clsDate.h   
+│       ├── clsInputValidation.h    
+│       ├── clsString.h   
+│       └── clsUtil.h  
 │   
 │   └── Screens/   
 │      ├── clsScreen.h   
